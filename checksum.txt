@@ -1,0 +1,16 @@
+WP Missed Schedule Beta - Build 2015-02-28 (Version 2015.0228.3) Checksum
+
+--------------------------- Tags Branche 2015 ---------------------------
+
+index.html                       7BFCA8C40496ED3D3847BC234BB62F1DE23D9AC7
+.htaccess                        F1299D142116E068A20C172769B1C76F0123370D
+gpl-2.0.txt                      4CC77B90AF91E615A64AE04893FDFFA7939DB84C
+humans.txt                       B23DC35E29428A33E6B8F86B6B7E96706997B741
+index.php                        0B29370A812ADC51BEB260F3A548DF09B922E36D
+license.txt                      4CC77B90AF91E615A64AE04893FDFFA7939DB84C
+uninstall.php                    2FA95595E32C62E9737A2A482F0F8404021A4395
+wp-missed-schedule-beta.php      0BAABBDA84883507C987A59986551A5A4AB32587
+
+/languages/
+
+wp-missed-schedule.pot           0C5426816318687929F1400883131C433F391FCE

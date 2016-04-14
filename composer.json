@@ -1,0 +1,12 @@
+{
+    "name": "menmo/wp-missed-schedule",
+    "description": "",
+    "keywords": ["cron"],
+    "type": "wordpress-plugin",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:menmo/wp-missed-schedule.git"
+        }
+    ]
+}
